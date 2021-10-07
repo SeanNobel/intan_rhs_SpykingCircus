@@ -1,7 +1,8 @@
 # intan_rhs_SpykingCircus
 
-Converts intan rhs files to numpy format for spike sorting by SpykingCircus.
+Further decoding-related functionalities to be added.
+
+Currently converts intan rhs files to npy format to execute spike sorting by SpykingCircus.
 
 - SpykingCircus: https://spyking-circus.readthedocs.io/en/latest/
-
-Further decoding-related functionalities to be added.
+- Intan Codes: https://intantech.com/downloads.html?tabSelect=Software&yPos=0
